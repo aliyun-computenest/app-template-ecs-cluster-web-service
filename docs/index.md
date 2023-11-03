@@ -51,12 +51,6 @@ ECS弹性集群版Web应用模板是一个基于ECS弹性伸缩组和负载均�
 
 ## 部署流程
 ### 访问应用管理
-应用管理可以从三个入口访问：
-
-- [ECS控制台入口](https://ecs.console.aliyun.com/app/list)
-- [系统管理与运维服务OOS入口](https://oos.console.aliyun.com/app/list)
-- [计算巢入口](https://computenest.console.aliyun.com/app/list)
-
 
 ### 部署步骤
 1. 访问应用管理控制台，点击“创建应用”后选择“通过模板创建”，在选择“ECS弹性集群版Web应用”模板，点击“使用模板”
